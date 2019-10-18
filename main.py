@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """ A simple webscraper. This takes in a file as an arg and parses
-out the urls, emails, and phone numbers found in the html.  """
+out the urls, emails, and phone numbers found in the html. """
 
 __author__ = "Shaquon Kelley"
 
